@@ -11,7 +11,7 @@ def count(s):
             letra[i] = 1
     return letra
 
-count('aba')
+print(count('aba'))
 print(count('')), {}
 print(count('aa'), ),{'a' : 2}
 print(count('aabb')), {'b' : 2, 'a' : 2}
