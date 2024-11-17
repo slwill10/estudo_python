@@ -1,5 +1,5 @@
 def swap(st):
-    vogais = ['a', 'e', 'i', 'o' , 'u']
+    vogais = ['a', 'e', 'i', 'o', 'u']
     palavra = []
 
     for n in st:
