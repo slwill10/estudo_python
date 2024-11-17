@@ -4,7 +4,7 @@ Este repositório contém uma coleção de exercícios para prática de lógica 
 # 🗂 Estrutura do Repositório
 Os exercícios estão organizados em diretórios de acordo com o nível de dificuldade ou tema:
 
-/basico/: Conceitos introdutórios e problemas simples, como manipulação de variáveis, condicionais, laços e funções.
-/intermediario/: Exercícios com listas, dicionários, manipulação de strings, e problemas que exigem maior abstração.
-/avancado/: Desafios com recursão, algoritmos de ordenação, otimização e problemas mais complexos.
-/extras/: Problemas criativos, desafios de competições e exercícios para explorar bibliotecas externas.
+* /basico/: Conceitos introdutórios e problemas simples, como manipulação de variáveis, condicionais, laços e funções.
+* /intermediario/: Exercícios com listas, dicionários, manipulação de strings, e problemas que exigem maior abstração.
+* /avancado/: Desafios com recursão, algoritmos de ordenação, otimização e problemas mais complexos.
+* /extras/: Problemas criativos, desafios de competições e exercícios para explorar bibliotecas externas.
